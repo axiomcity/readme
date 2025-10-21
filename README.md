@@ -7,10 +7,15 @@
 ## 📖 Acceder aux notes - Clash of Zombies
 
 **NOTES COLLABORATIVES**
-![Apercu de l'application en image](vite/assets/git2.png)
+<a href="https://axiomcity.github.io/readme" >
+  <img src="placeholder" alt="axiom city">
+</a>
 
 **Clash of Zombie** Est le tout premier jeu developpé par Nota, David, et Soonaekoo
-![Apercu du jeu COZ](vite/assets/git1.png)
+<a href="https://itch.io/games" >
+  <img src="placeholder" alt="itchio link">
+</a>
+
 
 # README-app
 # readme
